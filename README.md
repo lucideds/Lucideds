@@ -69,7 +69,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2glk05v888wb5q6kb9zj698j5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052290524427591731)](https://discord.com/users/1052290524427591731)  
 
 <br/>  
 
