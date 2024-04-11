@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lucideds, an art enthusiast and a coder!</div>  
+## I'm Lucideds, an art enthusiast and a coder!
 
 linux > windows  
 ## Github Stats  
