@@ -8,4 +8,4 @@ I'm a student and hobbyist programmer from the UK, mainly focused on hosting and
 - Game server hosting (mostly Minecraft)
 - Networking, and server infrastructure
 
-Contact me at [Discord](https://discordapp.com/users/1052290524427591731) or by [Email](mailto:lucideds@proton.me)!
+Contact me on [Discord](https://discordapp.com/users/1052290524427591731) or by [Email](mailto:lucideds@proton.me)!
